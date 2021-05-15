@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kaankny_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="kaankny_x" height="30" width="40" /></a>
+<a href="https://instagram.com/kaankny_x" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/842719470215888946/843026205874847744/download.jpg" alt="kaankny_x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kaankny_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="kaankny_x" height="30" width="40" /></a>
 </p>
 
