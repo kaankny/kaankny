@@ -1,3 +1,8 @@
+
+
+<div align="center">
+  <a href=''><img src="https://media.tenor.com/CDdZVcnLLHEAAAAC/luffy-wano.gif" width="75%"/></a>
+</div>
 <h1 align="center">Hi 👋, I'm kaankny</h1>
 <h3 align="center">I am student at Ecole 42 Kocaeli</h3>
 
