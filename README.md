@@ -4,12 +4,12 @@
 <h1 align="center">Hi 👋, I'm kaankny</h1>
 <h3 align="center">I am a student at Ecole 42 Kocaeli</h3>
 
-<p align="center">- 🔭 I’m currently working on [penguru](https://store.steampowered.com/app/2521250/PENGURU/)</p>
+- 🔭 I’m currently working on [penguru](https://store.steampowered.com/app/2521250/PENGURU/)
 
-<p align="center"><- 🌱 I’m currently learning **C**</p>
+- 🌱 I’m currently learning **C**
 
-<p align="center">- 📫 How to reach me **kaankanyilmaz21@gmail.com**</p>
-</p>
+- 📫 How to reach me **kaankanyilmaz21@gmail.com**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kaankny_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaankny_x" height="30" width="40" /></a>
