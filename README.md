@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: center;" align="center">
   <a href='' align="center"><img src="https://media.tenor.com/CDdZVcnLLHEAAAAC/luffy-wano.gif" width="75%"/></a>
 </div>
 <h1 align="center">Hi 👋, I'm kaankny</h1>
