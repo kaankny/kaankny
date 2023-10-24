@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm kaankny</h1>
 <h3 align="center">I am student at Ecole 42 Kocaeli</h3>
 
-- 🔭 I’m currently working on [penguru](https://store.steampowered.com/app/2521250/PENGURU/)
+<h1 align="center">- 🔭 I’m currently working on [penguru](https://store.steampowered.com/app/2521250/PENGURU/)</h1>
 
 - 🌱 I’m currently learning **C**
 
