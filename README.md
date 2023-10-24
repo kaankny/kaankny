@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm kaankny</h1>
 <h3 align="center">I am student at Ecole 42 Kocaeli</h3>
 
-<h1 align="center">- 🔭 I’m currently working on [penguru](https://store.steampowered.com/app/2521250/PENGURU/)</h1>
-
-- 🌱 I’m currently learning **C**
-
-- 📫 How to reach me **kaankanyilmaz21@gmail.com**
+<p align="center">- 🔭 I’m currently working on [penguru](https://store.steampowered.com/app/2521250/PENGURU/)</p>
+<br>
+<p align="center"><- 🌱 I’m currently learning **C**</p>
+<br>
+<p>- 📫 How to reach me **kaankanyilmaz21@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
