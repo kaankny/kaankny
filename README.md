@@ -1,7 +1,3 @@
-<div style="text-align: center;" align="center">
-  <a href='' align="center" ><img src="https://media.tenor.com/CDdZVcnLLHEAAAAC/luffy-wano.gif" loading="lazy" width="75%"/></a>
-</div>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaan Kanyılmaz
 ======================================================================================================================================
 
